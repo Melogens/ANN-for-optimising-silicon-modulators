@@ -5,4 +5,4 @@ My name is Melody, and this is my internship project on building an artificial n
 Independent variables: voltage (V), junction offset (nm), P concentration and N concentration (10^17 cm^3).
 Dependent varaibels: Optical loss and Phase response.
 
-Trained data is over 1053 datasets, voltage (0 to 6), offset (-250 to 250), concentrations (1 to 12)
+Example dataset with voltage (0 to 6), offset (-250 to 250), concentrations (1 to 12). Not all included here.
